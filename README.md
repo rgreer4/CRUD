@@ -9,6 +9,13 @@
 
 Quickly build an admin interface for your Eloquent models, using Laravel 5. Erect a complete CMS at 10 minutes/model, max.
 
+
+---------------------
+**PROJECT NO LONGER ACTIVELY MAINTAINED**
+
+**For important projects please use version 2 of this project, called [Laravel Backpack](http://laravelbackpack.com).**
+---------------------
+
 ## Install
 
 Via Composer
